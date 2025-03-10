@@ -5,7 +5,7 @@
 
 /**
  *
- * @author josed
+ * @author Esdrey
  */
 public class NewJFrame extends javax.swing.JFrame {
 
